@@ -1,2 +1,2 @@
 # time-series
-Time series analysis and forcasting
+Time series analysis and forecasting
